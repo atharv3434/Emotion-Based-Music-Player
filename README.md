@@ -19,6 +19,8 @@ EmotionMusicPlayer/
 │── MusicPlayer.java          (Plays Songs Based on Emotion)
 │── playlist/                 (Folder containing MP3 songs)
 
+
+
 Song File Format
 The application uses .wav files for playback.
 
@@ -34,6 +36,8 @@ calm1.wav, calm2.wav
 
 neutral1.wav, neutral2.wav
 
+
+
 🎯 How It Works?
 User Inputs a Sentence ✍️
 
@@ -48,6 +52,8 @@ Music Player Picks a Song for That Mood 🎵
 Example Output: "🎶 Now Playing: happy1.wav"
 
 Plays Music Using Java Sound API 🔊
+
+
 
 🚀 How to Run?
 Prepare .wav Music Files in the /playlist/ folder.
